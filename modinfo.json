@@ -1,0 +1,18 @@
+{
+	"name": "TDI_LegendaryRepair",
+	"description": "A set of Repair kits for Legendary items as a standalone mod.\nAll require a T4 smith or armorsmith.\nThe Masterwork kits repair items marked as Legendary or Unique.  The Perfected kit repairs without durability loss.  The perfected kit only comes from Durability focused Smiths or Armorers.  There's also a weapon mixed damage and AP kit available with a T4 smith that is either damage or penetration focus.",
+	"changeNote": "Updated for April 2026 Devkit",
+	"author": "Tiktaalik Dreaming",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 2604100,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "3637953062",
+	"steamTestLivePublishedFileId": "",
+	"steamVisibility": 0,
+	"folderName": "TDI_LegendaryRepair",
+	"revisionNumber": 1891197,
+	"snapshotId": 44838,
+	"fileSize": 0
+}
